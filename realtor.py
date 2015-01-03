@@ -11,7 +11,7 @@ import csv
 
 def make_soup(url):
 	html = urlopen(url).read()
-	return BeautifulSoup(html, "lxml")
+	return BeautifulSoup(html)
 
 def get_one_house(house):
 	try:
@@ -56,6 +56,7 @@ def get_one_house(house):
 	return houseInfo
 
 
+"""
 soup = make_soup(pageURL)
 listings = soup.findAll("ul", "listing-summary")
 information = []
@@ -65,11 +66,12 @@ for house in listings:
 return information
 
 for i in range(2, 398):
-	newPageURL = "http://www.realtor.com/soldhomeprices/Chicago_IL/sby-10/pg-" + i +"?pgsz=50"
+	newPageURL = "http://www.realtor.com/soldhomeprices/Chicago_IL/sby-10/pg-" + str(i) +"?pgsz=50"
 	soup = make_soup(newPageURL)
 	listings = soup.findAll("ul", "listing-summary")
 	for house in listings:
 		houseInfo = get_one_house(house)
 		information.append(houseInfo)
+"""
 
 
