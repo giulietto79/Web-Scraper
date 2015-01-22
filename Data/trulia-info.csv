@@ -1,19 +1,19 @@
 Latitude,Longitude,Street Address,Price,Date Sold,Neighborhood,More Address,Beds,Baths,House Type,Size in Square Feet
-41.89152,-87.61278,505 N Lake Shore Dr #D-26,60000.0,"Dec 19, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
-41.912846,-87.67968,1719 N Hoyne Ave,720000.0,"Dec 19, 2014",Wicker Park,"Chicago, IL 60647",,2.5,Multi-Family,2313.0
-41.906925,-87.63233,1360 N Sandburg Ter #2002C,300000.0,"Dec 19, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
-41.93165,-87.641106,2726 N Pine Grove Ave #2726-2N,298000.0,"Dec 19, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
-41.958168,-87.64856,720 W Gordon Ter #17M,134000.0,"Dec 19, 2014",Uptown,"Chicago, IL 60613",,,Condo,
-41.97147,-87.67734,4927 N Winchester Ave,575000.0,"Dec 19, 2014",Ravenswood,"Chicago, IL 60640",,2.5,Multi-Family,2090.0
-41.976913,-87.83978,8511 W Catherine Ave #288,113000.0,"Dec 19, 2014",O'Hare,"Chicago, IL 60656",,,Condo,
-41.95387,-87.74213,4008 N Kolmar Ave,625000.0,"Dec 19, 2014",Irving Park,"Chicago, IL 60641",3.0,2.5,Single-Family Home,2096.0
-41.811398,-87.68975,4518 S Rockwell St,41000.0,"Dec 19, 2014",Brighton Park,"Chicago, IL 60632",4.0,2.0,Single-Family Home,2030.0
-41.951923,-87.81201,7354 W Forest Preserve Ave,210000.0,"Dec 19, 2014",Dunning,"Chicago, IL 60634",3.0,1.0,Single-Family Home,1064.0
-41.959938,-87.67343,1764 W Cullom Ave,696500.0,"Dec 19, 2014",Ravenswood,"Chicago, IL 60613",3.0,2.5,Single-Family Home,2076.0
-41.912567,-87.72063,1724 N Ridgeway Ave,81000.0,"Dec 19, 2014",Humboldt Park,"Chicago, IL 60647",2.0,1.0,Single-Family Home,814.0
-41.81786,-87.69657,4117 S Francisco Ave,150500.0,"Dec 19, 2014",Brighton Park,"Chicago, IL 60632",,2.0,Multi-Family,1866.0
-41.98604,-87.6546,5701 N Sheridan Rd #17Q,136000.0,"Dec 19, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
-41.89196,-87.68135,2151 W Ohio St #2151-1,245000.0,"Dec 19, 2014",Ukranian Village,"Chicago, IL 60612",,,Condo,
+41.8863,-87.619316,252 N Park Dr,40000.0,"Dec 22, 2014",Loop,"Chicago, IL 60601",3.0,1.0,Single-Family Home,1066.0
+41.93265,-87.66991,1638 W Diversey Pkwy #3,430000.0,"Dec 22, 2014",,"Chicago, IL 60614",,,Condo,
+41.87144,-87.69877,748 S Francisco Ave,125000.0,"Dec 22, 2014",East Garfield Park,"Chicago, IL 60612",3.0,1.5,Single-Family Home,1247.0
+41.68561,-87.65589,11434 S Ada St,30000.0,"Dec 22, 2014",Morgan Park,"Chicago, IL 60643",2.0,1.0,Single-Family Home,969.0
+41.894356,-87.6764,1946 W Huron St,815000.0,"Dec 22, 2014",Ukranian Village,"Chicago, IL 60622",3.0,2.5,Single-Family Home,2371.0
+41.981674,-87.65449,5455 N Sheridan Rd #1406,140000.0,"Dec 22, 2014",Edgewater,"Chicago, IL 60640",,,Condo,
+41.913425,-87.64513,1716 N Vine St #109,730000.0,"Dec 22, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.88172,-87.69722,2823 W Warren Blvd,60000.0,"Dec 22, 2014",East Garfield Park,"Chicago, IL 60612",,2.0,Multi-Family,3460.0
+41.990353,-87.78568,6310 W Peterson Ave,281000.0,"Dec 22, 2014",Norwood Park,"Chicago, IL 60646",3.0,1.5,Single-Family Home,1147.0
+41.697384,-87.70994,10746 S Drake Ave,180000.0,"Dec 22, 2014",Mount Greenwood,"Chicago, IL 60655",2.0,1.0,Single-Family Home,779.0
+41.70107,-87.680565,10558 S Claremont Ave,195000.0,"Dec 22, 2014",Beverly,"Chicago, IL 60643",3.0,1.0,Single-Family Home,1424.0
+41.886562,-87.62159,222 N Columbus Dr #2408,388500.0,"Dec 22, 2014",Loop,"Chicago, IL 60601",,,Condo,
+41.87964,-87.640366,130 S Canal St #205,360000.0,"Dec 22, 2014",,"Chicago, IL 60606",,,Condo,
+41.795677,-87.59152,1400 E 55th St #722S,50000.0,"Dec 22, 2014",Hyde Park,"Chicago, IL 60615",,,Condo,
+42.014416,-87.67634,7323 N Honore St #2-S,149000.0,"Dec 22, 2014",Rogers Park,"Chicago, IL 60626",,,Condo,
 41.9427,-87.65857,1157 W Roscoe St,425000.0,"Dec 22, 2014",,"Chicago, IL 60657",,,Condo,
 41.80407,-87.585754,5000 S East End Ave #11B,20000.0,"Dec 22, 2014",Kenwood,"Chicago, IL 60615",,,Condo,
 41.72416,-87.658226,9322 S Loomis St,192500.0,"Dec 22, 2014",Washington Heights / Brainerd,"Chicago, IL 60620",3.0,1.0,Single-Family Home,1092.0
@@ -1018,3 +1018,436 @@ Latitude,Longitude,Street Address,Price,Date Sold,Neighborhood,More Address,Beds
 41.82713,-87.67065,3650 S Wood St,155000.0,"Dec  5, 2014",McKinley Park,"Chicago, IL 60609",,1.0,Single-Family Home,580.0
 42.008068,-87.68049,1962 W Morse Ave,150000.0,"Dec  5, 2014",Rogers Park,"Chicago, IL 60626",3.0,1.0,Single-Family Home,1331.0
 41.927895,-87.64797,2518 N Burling St,2600000.0,"Dec  5, 2014",Lincoln Park,"Chicago, IL 60614",4.0,2.5,Single-Family Home,2486.0
+41.71468,-87.655594,9840 S Throop St,115000.0,"Dec  5, 2014",Washington Heights / Brainerd,"Chicago, IL 60643",3.0,1.0,Single-Family Home,1146.0
+41.850574,-87.63639,2303 S Stewart Ave #341B,208500.0,"Dec  5, 2014",Armour Square,"Chicago, IL 60616",,,Condo,
+41.927402,-87.76302,5447 W Wrightwood Ave,330000.0,"Dec  5, 2014",Cragin,"Chicago, IL 60639",,2.0,Multi-Family,2318.0
+41.9184,-87.74829,2053 N Lamon Ave,263000.0,"Dec  5, 2014",Cragin,"Chicago, IL 60639",4.0,1.0,Single-Family Home,1229.0
+41.74288,-87.71908,3859 W 82nd Pl,73500.0,"Dec  5, 2014",Ashburn,"Chicago, IL 60652",2.0,1.0,Single-Family Home,991.0
+41.90432,-87.63518,1212 N Wells St #1204,430000.0,"Dec  5, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.74715,-87.589035,8119 S Dante Ave,165000.0,"Dec  5, 2014",Avalon Park,"Chicago, IL 60619",3.0,2.5,Single-Family Home,1767.0
+41.99639,-87.687035,6311 N Oakley Ave #G,32500.0,"Dec  5, 2014",West Rogers Park,"Chicago, IL 60659",,,Condo,
+41.90554,-87.68481,1316 N Oakley Blvd #1,410000.0,"Dec  5, 2014",West Town,"Chicago, IL 60622",,,Condo,
+41.787197,-87.72875,5815 S Tripp Ave,160000.0,"Dec  5, 2014",West Elsdon,"Chicago, IL 60629",4.0,1.5,Single-Family Home,1346.0
+41.732483,-87.621086,75 E 89th St,180000.0,"Dec  5, 2014",Chatham,"Chicago, IL 60619",3.0,2.5,Single-Family Home,2144.0
+41.95595,-87.782425,4136 N Melvina Ave,377500.0,"Dec  5, 2014",Portage Park,"Chicago, IL 60634",,1.0,Single-Family Home,1018.0
+41.904655,-87.62964,1221 N Dearborn St #1204N,260000.0,"Dec  5, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.88091,-87.65974,24 S Throop St,705000.0,"Dec  5, 2014",,"Chicago, IL 60607",2.0,2.0,Townhouse,2012.0
+41.905334,-87.74682,4816 W Kamerling Ave,83000.0,"Dec  5, 2014",Austin,"Chicago, IL 60651",3.0,1.0,Single-Family Home,1296.0
+41.96504,-87.78035,6116 W Eastwood Ave,200000.0,"Dec  5, 2014",Portage Park,"Chicago, IL 60630",,3.0,Multi-Family,2880.0
+41.809856,-87.72208,4557 S Harding Ave,235000.0,"Dec  5, 2014",Archer Heights,"Chicago, IL 60632",2.0,1.0,Single-Family Home,912.0
+41.851353,-87.718025,3713 W Cermak Rd,53000.0,"Dec  5, 2014",Little Village,"Chicago, IL 60623",,3.0,Multi-Family,3006.0
+41.705902,-87.531296,10415 S Avenue G,60000.0,"Dec  5, 2014",East Side,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1292.0
+41.706944,-87.69364,2855 W 102nd Pl,208000.0,"Dec  5, 2014",Beverly,"Chicago, IL 60655",3.0,1.0,Single-Family Home,1283.0
+41.78182,-87.77199,6052 S Austin Ave,285000.0,"Dec  5, 2014",Clearing,"Chicago, IL 60638",4.0,2.0,Single-Family Home,1974.0
+41.79645,-87.622986,5356 S Michigan Ave #5356-3N,125000.0,"Dec  5, 2014",Washington Park,"Chicago, IL 60615",,,Condo,
+41.99175,-87.7003,6045 N Mozart St,145000.0,"Dec  5, 2014",West Rogers Park,"Chicago, IL 60659",4.0,2.5,Townhouse,2212.0
+41.93619,-87.64655,659 W Wellington Ave #659-2,432000.0,"Dec  5, 2014",,"Chicago, IL 60657",,,Condo,
+41.771675,-87.719666,3850 W Marquette Rd,123000.0,"Dec  5, 2014",West Lawn,"Chicago, IL 60629",3.0,1.0,Single-Family Home,1228.0
+41.924015,-87.66657,2323 N Bosworth Ave,807500.0,"Dec  5, 2014",DePaul,"Chicago, IL 60614",,,Condo,
+41.938793,-87.66794,3160 N Lincoln Ave #403,345000.0,"Dec  5, 2014",,"Chicago, IL 60657",,,Condo,
+41.92693,-87.77059,2539 N Menard Ave,132500.0,"Dec  5, 2014",Belmont Central,"Chicago, IL 60639",3.0,1.0,Single-Family Home,1058.0
+41.921715,-87.639275,401 W Webster Ave #409,253500.0,"Dec  4, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.980736,-87.83557,5555 N Cumberland Ave #701,250000.0,"Dec  4, 2014",Norwood Park,"Chicago, IL 60656",,,Condo,
+41.975388,-87.8436,8650 W Berwyn Ave #2N,86000.0,"Dec  4, 2014",O'Hare,"Chicago, IL 60656",,,Condo,
+41.77458,-87.72788,6510 S Keeler Ave,190000.0,"Dec  4, 2014",West Lawn,"Chicago, IL 60629",4.0,1.5,Single-Family Home,1410.0
+41.959816,-87.650475,4240 N Clarendon Ave #401N,113000.0,"Dec  4, 2014",Uptown,"Chicago, IL 60613",,,Condo,
+41.76434,-87.62697,7138 S Lafayette Ave,22000.0,"Dec  4, 2014",Greater Grand Crossing,"Chicago, IL 60621",,2.0,Multi-Family,2428.0
+41.925846,-87.70657,2435 N Kedzie Blvd #2435-1,325000.0,"Dec  4, 2014",Logan Square,"Chicago, IL 60647",,,Condo,
+41.913223,-87.63643,1715 N North Park Ave #1715-3,436500.0,"Dec  4, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.96234,-87.74806,4454 N Cicero Ave,212000.0,"Dec  4, 2014",Portage Park,"Chicago, IL 60630",2.0,1.0,Single-Family Home,960.0
+41.941483,-87.79916,3353 N Newland Ave,285000.0,"Dec  4, 2014",Dunning,"Chicago, IL 60634",4.0,2.5,Single-Family Home,1967.0
+41.89813,-87.6216,201 E Chestnut St #12F,200000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.881485,-87.62567,60 E Monroe St #30-JUN,68000.0,"Dec  4, 2014",Loop,"Chicago, IL 60603",,,Condo,
+41.95925,-87.66871,4241 N Ashland Ave #4241-3,290000.0,"Dec  4, 2014",,"Chicago, IL 60613",,,Condo,
+41.832474,-87.649475,921 W 34th St,205000.0,"Dec  4, 2014",Bridgeport,"Chicago, IL 60608",3.0,1.0,Single-Family Home,1100.0
+41.910706,-87.77977,1649 N Melvina Ave,193000.0,"Dec  4, 2014",Galewood,"Chicago, IL 60639",,2.0,Multi-Family,2448.0
+42.010933,-87.708015,7141 N Kedzie Ave #201,212000.0,"Dec  4, 2014",West Rogers Park,"Chicago, IL 60645",,,Condo,
+41.961536,-87.65144,4336 N Dayton St #4336-3,210000.0,"Dec  4, 2014",Uptown,"Chicago, IL 60613",,,Condo,
+41.700577,-87.706375,10564 S Homan Ave,55000.0,"Dec  4, 2014",Mount Greenwood,"Chicago, IL 60655",2.0,1.0,Single-Family Home,792.0
+41.75452,-87.57692,7723 S Euclid Ave,225000.0,"Dec  4, 2014",South Shore,"Chicago, IL 60649",3.0,1.5,Single-Family Home,1426.0
+41.952904,-87.71078,3926 N Spaulding Ave,455000.0,"Dec  4, 2014",Irving Park,"Chicago, IL 60618",,2.0,Multi-Family,2310.0
+41.787186,-87.71763,3750 W 58th Pl,130000.0,"Dec  4, 2014",West Elsdon,"Chicago, IL 60629",3.0,1.0,Single-Family Home,1080.0
+41.95125,-87.752846,5013 W Byron St,280000.0,"Dec  4, 2014",Portage Park,"Chicago, IL 60641",2.0,1.5,Single-Family Home,816.0
+41.996563,-87.68704,6319 N Oakley Ave,300000.0,"Dec  4, 2014",West Rogers Park,"Chicago, IL 60659",,2.0,Multi-Family,2320.0
+41.905113,-87.626205,70 E Scott St #405,380000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.794907,-87.67345,5426 S Winchester Ave,27000.0,"Dec  4, 2014",Back of the Yards,"Chicago, IL 60609",3.0,1.0,Single-Family Home,1060.0
+41.80499,-87.67425,4859 S Damen Ave,40000.0,"Dec  4, 2014",Back of the Yards,"Chicago, IL 60609",,3.0,Multi-Family,1564.0
+41.962437,-87.676186,4450 N Wolcott Ave #1,457000.0,"Dec  4, 2014",Ravenswood,"Chicago, IL 60640",,,Condo,
+41.68466,-87.7129,3707 W 114th Pl,238000.0,"Dec  4, 2014",Mount Greenwood,"Chicago, IL 60655",3.0,1.5,Single-Family Home,1350.0
+41.854565,-87.73197,4258 W Cullerton St,34000.0,"Dec  4, 2014",North Lawndale,"Chicago, IL 60623",3.0,1.0,Single-Family Home,1114.0
+41.909126,-87.649895,860 W Blackhawk St #1602,620000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60642",,,Condo,
+41.900455,-87.62467,950 N Michigan Ave #36B,940000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.943214,-87.659424,1207 W Roscoe St,1010000.0,"Dec  4, 2014",,"Chicago, IL 60657",3.0,2.5,Single-Family Home,3312.0
+41.71865,-87.61735,9647 S Prairie Ave,135000.0,"Dec  4, 2014",Roseland,"Chicago, IL 60628",,2.0,Multi-Family,2052.0
+41.857147,-87.62014,1821 S Prairie Pkwy,568000.0,"Dec  4, 2014",Near South Side,"Chicago, IL 60616",2.0,2.0,Townhouse,1855.0
+41.981487,-87.79226,5513 N Natoma Ave,216000.0,"Dec  4, 2014",Norwood Park,"Chicago, IL 60656",2.0,1.0,Single-Family Home,888.0
+41.954414,-87.68252,2130 W Irving Park Rd #2130-1,805000.0,"Dec  4, 2014",North Center,"Chicago, IL 60618",,,Condo,
+41.859367,-87.71609,1549 S Millard Ave,62000.0,"Dec  4, 2014",North Lawndale,"Chicago, IL 60623",,3.0,Multi-Family,3868.0
+41.89139,-87.621315,240 E Illinois St #306,553000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.87361,-87.688354,2455 W Harrison St #2455-4,135000.0,"Dec  4, 2014",Tri-Taylor,"Chicago, IL 60612",,,Condo,
+41.69551,-87.63919,10914 S Lowe Ave,54000.0,"Dec  4, 2014",Roseland,"Chicago, IL 60628",2.0,1.0,Single-Family Home,1032.0
+41.93563,-87.64939,809 W Oakdale Ave #809-G-1,146000.0,"Dec  4, 2014",,"Chicago, IL 60657",,,Condo,
+42.002598,-87.70012,6644 N California Ave #2E,50500.0,"Dec  4, 2014",West Rogers Park,"Chicago, IL 60645",,,Condo,
+41.930614,-87.650986,2653 N Mildred Ave #101,880000.0,"Dec  4, 2014",DePaul,"Chicago, IL 60614",,,Condo,
+41.800884,-87.760445,5032 S Linder Ave,183000.0,"Dec  4, 2014",,"Chicago, IL 60638",3.0,2.0,Single-Family Home,990.0
+41.88552,-87.61469,195 N Harbor Dr #5309,480000.0,"Dec  4, 2014",Loop,"Chicago, IL 60601",,,Condo,
+41.892014,-87.6236,535 N Michigan Ave #607,155000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.93078,-87.75537,5134 W Parker Ave,282000.0,"Dec  4, 2014",Cragin,"Chicago, IL 60639",3.0,1.5,Single-Family Home,1212.0
+41.917015,-87.641396,1916 N Cleveland Ave,500000.0,"Dec  4, 2014",Lincoln Park,"Chicago, IL 60614",4.0,2.0,Townhouse,1568.0
+41.85344,-87.67005,1738 W 21st Pl,166000.0,"Dec  4, 2014",Pilsen,"Chicago, IL 60608",,2.0,Multi-Family,2024.0
+41.881485,-87.62567,60 E Monroe St #1604,649500.0,"Dec  4, 2014",Loop,"Chicago, IL 60603",,,Condo,
+42.01225,-87.80994,7219 N Odell Ave,333000.0,"Dec  4, 2014",Edison Park,"Chicago, IL 60631",3.0,1.0,Single-Family Home,1195.0
+41.738884,-87.60938,8547 S Saint Lawrence Ave,40500.0,"Dec  4, 2014",Chatham,"Chicago, IL 60619",2.0,1.0,Townhouse,912.0
+41.97401,-87.76086,5315 W Winona St,300000.0,"Dec  4, 2014",Jefferson Park,"Chicago, IL 60630",,2.0,Multi-Family,2016.0
+41.888947,-87.626305,401 N Wabash Ave #44D,670000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.83175,-87.68177,3410 S Bell Ave,78000.0,"Dec  4, 2014",McKinley Park,"Chicago, IL 60608",2.0,1.5,Single-Family Home,1191.0
+41.77604,-87.699745,6436 S Whipple St,53000.0,"Dec  4, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,1.0,Single-Family Home,1050.0
+41.964394,-87.71293,3355 W Wilson Ave #1R,170000.0,"Dec  4, 2014",Albany Park,"Chicago, IL 60625",,,Condo,
+41.976536,-87.82401,5319 N Canfield Ave,260000.0,"Dec  4, 2014",Norwood Park,"Chicago, IL 60656",2.0,1.0,Single-Family Home,959.0
+41.95775,-87.67116,4156 N Paulina St,1263000.0,"Dec  4, 2014",,"Chicago, IL 60613",4.0,2.0,Single-Family Home,4069.0
+41.77302,-87.57194,6714 S Paxton Ave,50000.0,"Dec  4, 2014",South Shore,"Chicago, IL 60649",3.0,1.0,Single-Family Home,1327.0
+41.738,-87.73038,8510 S Kolin Ave,138000.0,"Dec  4, 2014",Scottsdale,"Chicago, IL 60652",3.0,1.0,Single-Family Home,1178.0
+41.701992,-87.63939,10524 S Lowe Ave,120000.0,"Dec  4, 2014",Roseland,"Chicago, IL 60628",2.0,1.0,Single-Family Home,925.0
+41.758972,-87.68816,7414 S Rockwell St,149500.0,"Dec  4, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,2.5,Single-Family Home,1639.0
+41.972916,-87.651634,4920 N Marine Dr #S102,113500.0,"Dec  4, 2014",Uptown,"Chicago, IL 60640",,,Condo,
+41.946255,-87.758484,5236 W Addison St,300000.0,"Dec  4, 2014",Portage Park,"Chicago, IL 60641",,2.0,Multi-Family,2359.0
+41.792892,-87.79071,5440 S Rutherford Ave,275000.0,"Dec  4, 2014",Garfield Ridge,"Chicago, IL 60638",4.0,2.5,Single-Family Home,1922.0
+41.892014,-87.6236,535 N Michigan Ave #308,190000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.99741,-87.6652,6333 N Glenwood Ave #6333-1E,238000.0,"Dec  4, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.910076,-87.63239,1560 N Sandburg Ter #3503J,206000.0,"Dec  4, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.71618,-87.61607,9803 S Forest Ave,72000.0,"Dec  4, 2014",Roseland,"Chicago, IL 60628",3.0,1.0,Single-Family Home,1186.0
+41.937508,-87.676765,1921 W Barry Ave,1260000.0,"Dec  4, 2014",Roscoe Village,"Chicago, IL 60657",3.0,3.5,Single-Family Home,2772.0
+41.70385,-87.68438,10420 S Campbell Ave,195000.0,"Dec  4, 2014",Beverly,"Chicago, IL 60655",3.0,1.0,Single-Family Home,1119.0
+41.89446,-87.6689,1640 W Huron St,812000.0,"Dec  4, 2014",Goose Island,"Chicago, IL 60622",4.0,3.0,Single-Family Home,2360.0
+41.78596,-87.77756,5831 S Merrimac Ave,172000.0,"Dec  4, 2014",Garfield Ridge,"Chicago, IL 60638",3.0,1.0,Single-Family Home,1008.0
+41.979374,-87.80197,5407 N Nordica Ave,300000.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60656",3.0,1.0,Single-Family Home,1231.0
+41.89783,-87.758484,936 N Lockwood Ave,167000.0,"Dec  3, 2014",Austin,"Chicago, IL 60651",4.0,1.0,Single-Family Home,1984.0
+41.73779,-87.723595,8521 S Karlov Ave,185000.0,"Dec  3, 2014",Scottsdale,"Chicago, IL 60652",3.0,1.0,Single-Family Home,1326.0
+41.99317,-87.8032,6131 N Nickerson Ave,630000.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60631",2.0,1.0,Single-Family Home,1071.0
+41.749733,-87.55977,8007 S Saginaw Ave,28000.0,"Dec  3, 2014",South Chicago,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1185.0
+41.962246,-87.75153,4937 W Sunnyside Ave,339000.0,"Dec  3, 2014",Portage Park,"Chicago, IL 60630",,2.0,Multi-Family,2406.0
+41.74231,-87.60077,936 E 84th St,34500.0,"Dec  3, 2014",Chatham,"Chicago, IL 60619",3.0,1.0,Townhouse,1116.0
+41.931427,-87.64931,2700 N Halsted St #411,249000.0,"Dec  3, 2014",DePaul,"Chicago, IL 60614",,,Condo,
+41.973087,-87.74097,5044 N Kilbourn Ave,277000.0,"Dec  3, 2014",Albany Park,"Chicago, IL 60630",3.0,1.0,Single-Family Home,1110.0
+41.97429,-87.71684,5115 N Drake Ave,292500.0,"Dec  3, 2014",North Park,"Chicago, IL 60625",3.0,1.0,Single-Family Home,1182.0
+42.01283,-87.80871,7239 N Octavia Ave,225000.0,"Dec  3, 2014",Edison Park,"Chicago, IL 60631",2.0,1.0,Single-Family Home,1049.0
+41.940243,-87.67721,1931 W Melrose St,1337500.0,"Dec  3, 2014",Roscoe Village,"Chicago, IL 60657",4.0,3.5,Single-Family Home,2610.0
+41.93322,-87.63707,2800 N Lake Shore Dr #2706,295000.0,"Dec  3, 2014",,"Chicago, IL 60657",,,Condo,
+41.89537,-87.773735,5937 W Rice St,65000.0,"Dec  3, 2014",Austin,"Chicago, IL 60651",,2.0,Multi-Family,1680.0
+41.75899,-87.61181,7442 S Rhodes Ave,44000.0,"Dec  3, 2014",Greater Grand Crossing,"Chicago, IL 60619",,2.0,Multi-Family,3040.0
+41.957333,-87.77972,4220 N Meade Ave,220000.0,"Dec  3, 2014",Portage Park,"Chicago, IL 60634",3.0,2.0,Single-Family Home,1740.0
+41.933838,-87.71151,2858 N Woodard St,519500.0,"Dec  3, 2014",Avondale,"Chicago, IL 60618",4.0,3.5,Single-Family Home,1748.0
+41.846684,-87.63978,2415 S Normal Ave,348000.0,"Dec  3, 2014",Bridgeport,"Chicago, IL 60616",3.0,2.5,Townhouse,1656.0
+41.969795,-87.72653,4855 N Harding Ave #4855-3,127000.0,"Dec  3, 2014",Albany Park,"Chicago, IL 60625",,,Condo,
+41.790016,-87.77283,5619 S Mcvicker Ave,174000.0,"Dec  3, 2014",Garfield Ridge,"Chicago, IL 60638",3.0,1.5,Single-Family Home,1188.0
+41.921356,-87.711105,3316 W Palmer St #3,234000.0,"Dec  3, 2014",Logan Square,"Chicago, IL 60647",,,Condo,
+41.795677,-87.59152,1400 E 55th St #710S,55500.0,"Dec  3, 2014",Hyde Park,"Chicago, IL 60615",,,Condo,
+41.942043,-87.65101,842 W Aldine Ave #4,535000.0,"Dec  3, 2014",,"Chicago, IL 60657",,,Condo,
+42.005554,-87.70032,6800 N California Ave #2I,114000.0,"Dec  3, 2014",West Rogers Park,"Chicago, IL 60645",,,Condo,
+41.727215,-87.67945,9133 S Oakley Ave,347500.0,"Dec  3, 2014",Beverly,"Chicago, IL 60643",5.0,4.5,Single-Family Home,2091.0
+41.94567,-87.648834,744 W Cornelia Ave #GE,185500.0,"Dec  3, 2014",,"Chicago, IL 60657",,,Condo,
+41.94002,-87.69631,2727 W Melrose St,265000.0,"Dec  3, 2014",Avondale,"Chicago, IL 60618",,3.0,Multi-Family,2512.0
+41.98873,-87.66064,5858 N Broadway St #606,467000.0,"Dec  3, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.909607,-87.63247,1455 N Sandburg Ter #1904B,195000.0,"Dec  3, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+42.002274,-87.701324,6636 N Mozart St,310000.0,"Dec  3, 2014",West Rogers Park,"Chicago, IL 60645",4.0,2.5,Single-Family Home,1560.0
+41.95711,-87.70775,4141 N Kedzie Ave #304,275000.0,"Dec  3, 2014",Irving Park,"Chicago, IL 60618",,,Unknown,
+41.913574,-87.67543,1740 N Wolcott Ave,1320000.0,"Dec  3, 2014",Wicker Park,"Chicago, IL 60622",3.0,3.5,Single-Family Home,2559.0
+41.981052,-87.669334,5441 N Ashland Ave #1,490000.0,"Dec  3, 2014",Edgewater,"Chicago, IL 60640",,,Condo,
+41.937992,-87.67931,2022 W Barry Ave,680000.0,"Dec  3, 2014",Roscoe Village,"Chicago, IL 60618",2.0,1.0,Single-Family Home,880.0
+41.944347,-87.64147,3440 N Lake Shore Dr #10P,266000.0,"Dec  3, 2014",,"Chicago, IL 60657",,,Condo,
+41.91089,-87.710526,1622 N Spaulding Ave,419000.0,"Dec  3, 2014",Humboldt Park,"Chicago, IL 60647",,3.0,Multi-Family,1890.0
+41.696915,-87.690956,2757 W 108th St,177000.0,"Dec  3, 2014",Morgan Park,"Chicago, IL 60655",3.0,1.0,Single-Family Home,1213.0
+41.886063,-87.63005,200 N Dearborn St #3202,300000.0,"Dec  3, 2014",Loop,"Chicago, IL 60601",,,Condo,
+41.90143,-87.67076,1063 N Hermitage Ave,749000.0,"Dec  3, 2014",Wicker Park,"Chicago, IL 60622",4.0,2.0,Single-Family Home,1794.0
+41.774075,-87.69534,6545 S Francisco Ave,115000.0,"Dec  3, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,1.5,Single-Family Home,1106.0
+41.98042,-87.8394,8506 W Gregory St,634500.0,"Dec  3, 2014",O'Hare,"Chicago, IL 60656",,6.0,Multi-Family,6229.0
+41.68695,-87.677734,2243 W 113th Pl,260000.0,"Dec  3, 2014",Morgan Park,"Chicago, IL 60643",3.0,1.0,Single-Family Home,852.0
+41.85639,-87.68431,2323 W 18th Pl,269000.0,"Dec  3, 2014",Pilsen,"Chicago, IL 60608",,2.0,Multi-Family,1400.0
+42.011814,-87.67124,1626 W Estes Ave #3E,61000.0,"Dec  3, 2014",Rogers Park,"Chicago, IL 60626",,,Condo,
+41.97249,-87.70089,5009 N Francisco Ave,495000.0,"Dec  3, 2014",Ravenswood,"Chicago, IL 60625",4.0,2.0,Single-Family Home,936.0
+41.80074,-87.60185,1000 E 53rd St #613S,175000.0,"Dec  3, 2014",Hyde Park,"Chicago, IL 60615",,,Condo,
+41.991898,-87.781,6101 N Elston Ave #1W,50000.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60646",,,Condo,
+41.954582,-87.71069,4018 N Spaulding Ave #4018-2,154000.0,"Dec  3, 2014",Irving Park,"Chicago, IL 60618",,,Condo,
+41.811108,-87.638,456 W 46th St,150000.0,"Dec  3, 2014",Canaryville,"Chicago, IL 60609",2.0,1.0,Single-Family Home,1000.0
+41.96648,-87.6943,2613 W Leland Ave #3,289000.0,"Dec  3, 2014",Ravenswood,"Chicago, IL 60625",,,Condo,
+41.94302,-87.756165,5145 W Newport Ave,235000.0,"Dec  3, 2014",Portage Park,"Chicago, IL 60641",2.0,1.0,Single-Family Home,1145.0
+41.769016,-87.58174,6924 S Cregier Ave #6924-1,62000.0,"Dec  3, 2014",South Shore,"Chicago, IL 60649",,,Condo,
+42.01712,-87.81425,7500 N Olcott Ave,223000.0,"Dec  3, 2014",Edison Park,"Chicago, IL 60631",3.0,1.0,Single-Family Home,1253.0
+41.77212,-87.68868,6652 S Rockwell St,74000.0,"Dec  3, 2014",Chicago Lawn,"Chicago, IL 60629",,3.0,Multi-Family,4660.0
+41.90603,-87.63412,1309 N Wells St #904,361000.0,"Dec  3, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.974854,-87.79793,5134 N Newcastle Ave,630000.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60656",3.0,1.0,Single-Family Home,1314.0
+41.756954,-87.5733,7601 S Clyde Ave,215000.0,"Dec  3, 2014",South Shore,"Chicago, IL 60649",3.0,2.5,Single-Family Home,1698.0
+42.016796,-87.68789,7438 N Oakley Ave #1,185000.0,"Dec  3, 2014",West Rogers Park,"Chicago, IL 60645",,,Condo,
+41.913307,-87.67542,1732 N Wolcott Ave,765000.0,"Dec  3, 2014",Wicker Park,"Chicago, IL 60622",,4.0,Multi-Family,2427.0
+41.77601,-87.726,6425 S Kedvale Ave,210000.0,"Dec  3, 2014",West Lawn,"Chicago, IL 60629",3.0,2.0,Single-Family Home,1156.0
+42.01099,-87.67839,7078 N Wolcott Ave #7078-2,120000.0,"Dec  3, 2014",Rogers Park,"Chicago, IL 60626",,,Condo,
+41.91077,-87.62728,1555 N Astor St #21W,1240000.0,"Dec  3, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.893803,-87.628365,630 N State St,658000.0,"Dec  3, 2014",Near North Side,"Chicago, IL 60654",,,Condo,
+41.91993,-87.64397,603 W Dickens Ave,350000.0,"Dec  3, 2014",Lincoln Park,"Chicago, IL 60614",3.0,2.5,Townhouse,1254.0
+41.891457,-87.61894,512 N Mcclurg Ct #5004,552500.0,"Dec  3, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.902626,-87.67202,1137 N Wood St #D2,402500.0,"Dec  3, 2014",Wicker Park,"Chicago, IL 60622",,,Condo,
+41.93732,-87.79088,6566 W Barry Ave #304S,102000.0,"Dec  3, 2014",Montclare,"Chicago, IL 60634",,,Condo,
+41.96226,-87.72872,4445 N Keystone Ave,165000.0,"Dec  3, 2014",Albany Park,"Chicago, IL 60630",3.0,1.0,Single-Family Home,784.0
+41.732826,-87.57839,8916 S Bennett Ave,164000.0,"Dec  3, 2014",Calumet Heights,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1089.0
+41.914738,-87.67546,1818 N Wolcott Ave,1770000.0,"Dec  3, 2014",Bucktown,"Chicago, IL 60622",3.0,1.0,Single-Family Home,976.0
+41.778263,-87.70573,3300 W 63rd Pl,59000.0,"Dec  3, 2014",Chicago Lawn,"Chicago, IL 60629",,2.0,Multi-Family,1949.0
+41.782093,-87.590866,1415 E 62nd St #1W,120000.0,"Dec  3, 2014",Woodlawn,"Chicago, IL 60637",,,Condo,
+41.907608,-87.69121,1432 N Maplewood Ave #202,187500.0,"Dec  3, 2014",West Town,"Chicago, IL 60622",,,Condo,
+41.933453,-87.78978,2918 N Neenah Ave,150000.0,"Dec  3, 2014",Belmont Central,"Chicago, IL 60634",3.0,1.5,Single-Family Home,1539.0
+41.852493,-87.67285,1848 W Cermak Rd #1,92000.0,"Dec  3, 2014",Pilsen,"Chicago, IL 60608",,,Condo,
+41.975895,-87.789955,6452 W Foster Ave,258500.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60656",2.0,1.0,Single-Family Home,1350.0
+41.932793,-87.66027,1238 W Diversey Pkwy #4,417000.0,"Dec  3, 2014",,"Chicago, IL 60614",,,Condo,
+41.94892,-87.767204,3746 N Central Ave #2C,85000.0,"Dec  3, 2014",Portage Park,"Chicago, IL 60634",,,Condo,
+41.8702,-87.62474,910 S Michigan Ave #1111,325000.0,"Dec  3, 2014",Loop,"Chicago, IL 60605",,,Condo,
+41.711185,-87.64744,10037 S Morgan St,157000.0,"Dec  3, 2014",Washington Heights / Brainerd,"Chicago, IL 60643",4.0,1.5,Single-Family Home,1712.0
+41.74707,-87.7192,3856 W 80th Pl,185000.0,"Dec  3, 2014",Ashburn,"Chicago, IL 60652",2.0,1.0,Single-Family Home,909.0
+41.921776,-87.709435,2220 N Sawyer Ave,670000.0,"Dec  3, 2014",Logan Square,"Chicago, IL 60647",,2.0,Multi-Family,2072.0
+41.813953,-87.64166,4413 S Lowe Ave,192000.0,"Dec  3, 2014",Canaryville,"Chicago, IL 60609",,2.0,Multi-Family,2088.0
+41.886063,-87.63005,200 N Dearborn St #1905,219000.0,"Dec  3, 2014",Loop,"Chicago, IL 60601",,,Condo,
+41.801598,-87.73039,5023 S Kildare Ave,159500.0,"Dec  3, 2014",Archer Heights,"Chicago, IL 60632",3.0,1.5,Single-Family Home,1012.0
+41.68554,-87.64683,955 W 114th Pl,63000.0,"Dec  3, 2014",Morgan Park,"Chicago, IL 60643",3.0,1.5,Single-Family Home,1129.0
+41.827988,-87.67364,3619 S Winchester Ave,127000.0,"Dec  3, 2014",McKinley Park,"Chicago, IL 60609",2.0,2.0,Single-Family Home,736.0
+41.949047,-87.644264,3600 N Lake Shore Dr #718,123000.0,"Dec  3, 2014",,"Chicago, IL 60613",,,Condo,
+41.93165,-87.641106,2722 N Pine Grove Ave #2722-2,329000.0,"Dec  3, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.99733,-87.796715,6726 W Devon Ave,195000.0,"Dec  3, 2014",Norwood Park,"Chicago, IL 60631",2.0,1.0,Single-Family Home,934.0
+41.99185,-87.67369,6059 N Ridge Ave,305000.0,"Dec  3, 2014",Edgewater,"Chicago, IL 60660",3.0,1.5,Single-Family Home,1560.0
+41.82244,-87.60714,769 E Oakwood Blvd #3,145000.0,"Dec  3, 2014",Grand Boulevard,"Chicago, IL 60653",,,Condo,
+41.960316,-87.733086,4342 N Keeler Ave,890000.0,"Dec  3, 2014",Irving Park,"Chicago, IL 60641",4.0,4.0,Single-Family Home,3238.0
+41.69203,-87.683464,2458 W 111th St,283000.0,"Dec  3, 2014",Morgan Park,"Chicago, IL 60655",,2.0,Multi-Family,2538.0
+41.81199,-87.602234,4542 S Ellis Ave #4542-2,215000.0,"Dec  3, 2014",Kenwood,"Chicago, IL 60653",,,Condo,
+41.933716,-87.66806,2843 N Ashland Ave #2,500000.0,"Dec  3, 2014",,"Chicago, IL 60657",,,Condo,
+41.993874,-87.66148,1222 W Hood Ave #2,390000.0,"Dec  3, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.84871,-87.712814,2338 S Saint Louis Ave,60000.0,"Dec  3, 2014",Little Village,"Chicago, IL 60623",,3.0,Multi-Family,4665.0
+41.910583,-87.75971,1634 N Lorel Ave,130000.0,"Dec  3, 2014",Austin,"Chicago, IL 60639",,2.0,Multi-Family,1864.0
+41.925793,-87.74988,4925 W Altgeld St,107000.0,"Dec  3, 2014",Cragin,"Chicago, IL 60639",2.0,1.0,Single-Family Home,1000.0
+41.973034,-87.77669,5926 W Higgins Ave,270000.0,"Dec  3, 2014",Jefferson Park,"Chicago, IL 60630",3.0,1.0,Single-Family Home,1197.0
+41.89439,-87.64934,680 N Green St #709,370000.0,"Dec  3, 2014",Goose Island,"Chicago, IL 60642",,,Condo,
+41.78266,-87.592354,1356 E 62nd St #3W,155000.0,"Dec  3, 2014",Woodlawn,"Chicago, IL 60637",,,Condo,
+41.99849,-87.81011,6490 N Northwest Hwy #1F,147000.0,"Dec  3, 2014",Edison Park,"Chicago, IL 60631",,,Condo,
+41.98801,-87.6547,5815 N Sheridan Rd #901,75000.0,"Dec  3, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.781597,-87.697464,6136 S Richmond St,58000.0,"Dec  2, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,1.0,Single-Family Home,1212.0
+41.86869,-87.62538,1111 S Wabash Ave #2406,270000.0,"Dec  2, 2014",Loop,"Chicago, IL 60605",,,Condo,
+41.917675,-87.642784,1940 N Mohawk St,1810000.0,"Dec  2, 2014",Lincoln Park,"Chicago, IL 60614",5.0,4.0,Single-Family Home,5764.0
+41.895725,-87.669556,1659 W Chicago Ave #2W,420000.0,"Dec  2, 2014",Goose Island,"Chicago, IL 60622",,,Condo,
+41.868324,-87.66131,1357 W Fillmore St #C,295000.0,"Dec  2, 2014",University Village / Little Italy,"Chicago, IL 60607",,,Condo,
+41.871506,-87.71441,3531 W Lexington St,140500.0,"Dec  2, 2014",East Garfield Park,"Chicago, IL 60624",,2.0,Multi-Family,2526.0
+41.912636,-87.69179,1715 N Rockwell St,400000.0,"Dec  2, 2014",West Town,"Chicago, IL 60647",3.0,2.5,Single-Family Home,2710.0
+41.96887,-87.77358,5816 W Gunnison St,337000.0,"Dec  2, 2014",Jefferson Park,"Chicago, IL 60630",,4.0,Multi-Family,2532.0
+41.94053,-87.79543,3315 N Oak Park Ave,220000.0,"Dec  2, 2014",Dunning,"Chicago, IL 60634",4.0,2.5,Single-Family Home,2089.0
+41.901646,-87.70903,1119 N Spaulding Ave,22500.0,"Dec  2, 2014",Humboldt Park,"Chicago, IL 60651",,2.0,Multi-Family,2666.0
+41.94163,-87.823654,3413 N Orange Ave,210000.0,"Dec  2, 2014",Dunning,"Chicago, IL 60634",3.0,1.0,Single-Family Home,1093.0
+42.01623,-87.70477,3007 W Fargo Ave,279000.0,"Dec  2, 2014",West Rogers Park,"Chicago, IL 60645",4.0,1.5,Single-Family Home,1558.0
+41.742836,-87.65803,8309 S Loomis Blvd,139500.0,"Dec  2, 2014",Auburn Gresham,"Chicago, IL 60620",4.0,2.5,Single-Family Home,1826.0
+41.93322,-87.63707,2800 N Lake Shore Dr #2514,275000.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.73092,-87.603386,829 E 90th St,33000.0,"Dec  2, 2014",Chatham,"Chicago, IL 60619",3.0,1.5,Single-Family Home,1380.0
+41.94392,-87.64683,658 W Roscoe St #4,270000.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.970505,-87.737595,4917 N Kostner Ave,235000.0,"Dec  2, 2014",Albany Park,"Chicago, IL 60630",2.0,1.0,Single-Family Home,1093.0
+41.68734,-87.64918,11343 S Aberdeen St,77000.0,"Dec  2, 2014",Morgan Park,"Chicago, IL 60643",2.0,1.0,Single-Family Home,934.0
+41.855236,-87.62117,221 E Cullerton St #411,220000.0,"Dec  2, 2014",Near South Side,"Chicago, IL 60616",,,Condo,
+41.948288,-87.648994,3631 N Halsted St #210,355000.0,"Dec  2, 2014",,"Chicago, IL 60613",,,Condo,
+41.96512,-87.75534,4626 N Leclaire Ave,264000.0,"Dec  2, 2014",Portage Park,"Chicago, IL 60630",5.0,1.0,Single-Family Home,1386.0
+41.77061,-87.72899,6720 S Tripp Ave,87500.0,"Dec  2, 2014",West Lawn,"Chicago, IL 60629",2.0,1.0,Single-Family Home,936.0
+41.90738,-87.68147,2140 W Schiller St #2N,567500.0,"Dec  2, 2014",Wicker Park,"Chicago, IL 60622",,,Condo,
+41.8922,-87.665695,1501 W Ohio St,845000.0,"Dec  2, 2014",Goose Island,"Chicago, IL 60642",,2.0,Single-Family Home,1003.0
+41.975277,-87.82352,7840 W Farragut Ave,385000.0,"Dec  2, 2014",Norwood Park,"Chicago, IL 60656",2.0,2.0,Single-Family Home,1814.0
+41.91393,-87.67687,1943 W Bloomingdale Ave,925000.0,"Dec  2, 2014",Wicker Park,"Chicago, IL 60622",3.0,3.5,Single-Family Home,2278.0
+41.774952,-87.76754,5825 W 64th Pl,154000.0,"Dec  2, 2014",Clearing,"Chicago, IL 60638",2.0,1.0,Single-Family Home,946.0
+41.983997,-87.67355,1753 W Olive Ave,475000.0,"Dec  2, 2014",Edgewater,"Chicago, IL 60660",2.0,1.0,Single-Family Home,1056.0
+41.937378,-87.80218,3131 N Nordica Ave,185000.0,"Dec  2, 2014",Montclare,"Chicago, IL 60634",3.0,1.5,Single-Family Home,1101.0
+41.91899,-87.68178,2141 W Dickens Ave,735000.0,"Dec  2, 2014",Bucktown,"Chicago, IL 60647",3.0,1.5,Single-Family Home,1647.0
+41.90443,-87.687935,1247 N Artesian Ave,436000.0,"Dec  2, 2014",West Town,"Chicago, IL 60622",,2.0,Multi-Family,2200.0
+41.919346,-87.67601,1917 W Dickens Ave,480000.0,"Dec  2, 2014",Bucktown,"Chicago, IL 60614",,1.0,Single-Family Home,620.0
+41.949482,-87.8289,3827 N Panama Ave,235500.0,"Dec  2, 2014",Dunning,"Chicago, IL 60634",4.0,2.0,Single-Family Home,1876.0
+41.907207,-87.66458,1448 W Blackhawk St,393500.0,"Dec  2, 2014",Goose Island,"Chicago, IL 60642",,2.0,Multi-Family,2376.0
+41.99429,-87.65593,6166 N Sheridan Rd #12G,55500.0,"Dec  2, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.690575,-87.68517,11138 S Maplewood Ave,280000.0,"Dec  2, 2014",Morgan Park,"Chicago, IL 60655",3.0,1.5,Single-Family Home,1360.0
+42.00314,-87.77414,6701 N Lightfoot Ave,480000.0,"Dec  2, 2014",Forest Glen,"Chicago, IL 60646",4.0,2.0,Single-Family Home,2027.0
+41.91934,-87.686066,2324 W Dickens Ave,621000.0,"Dec  2, 2014",Bucktown,"Chicago, IL 60647",,3.0,Multi-Family,1856.0
+41.698627,-87.63062,10730 S Princeton Ave,65000.0,"Dec  2, 2014",Roseland,"Chicago, IL 60628",2.0,1.0,Single-Family Home,694.0
+41.947304,-87.746346,4744 W Patterson Ave,133000.0,"Dec  2, 2014",Portage Park,"Chicago, IL 60641",3.0,1.0,Single-Family Home,1039.0
+41.921906,-87.80346,2320 N Nordica Ave #410D,70000.0,"Dec  2, 2014",Galewood,"Chicago, IL 60707",,,Condo,
+41.924072,-87.710075,2339 N Spaulding Ave,350000.0,"Dec  2, 2014",Logan Square,"Chicago, IL 60647",3.0,2.0,Single-Family Home,792.0
+41.9693,-87.76291,5440 W Higgins Ave #2A,119000.0,"Dec  2, 2014",Jefferson Park,"Chicago, IL 60630",,,Condo,
+41.70706,-87.53199,10338 S Avenue G,82500.0,"Dec  2, 2014",East Side,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1040.0
+41.932384,-87.799995,6951 W George St,255000.0,"Dec  2, 2014",Montclare,"Chicago, IL 60634",3.0,1.0,Single-Family Home,1567.0
+41.761623,-87.70185,7230 S Troy St,136000.0,"Dec  2, 2014",Chicago Lawn,"Chicago, IL 60629",2.0,1.0,Single-Family Home,880.0
+41.71394,-87.64508,9905 S Peoria St,140000.0,"Dec  2, 2014",Washington Heights / Brainerd,"Chicago, IL 60643",3.0,1.0,Single-Family Home,1128.0
+41.94563,-87.64505,621 W Cornelia Ave #621-1,352000.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.935093,-87.72621,2948 N Harding Ave,320000.0,"Dec  2, 2014",Avondale,"Chicago, IL 60618",,2.0,Multi-Family,2304.0
+41.89753,-87.673134,1823 W Iowa St #3,464000.0,"Dec  2, 2014",Ukranian Village,"Chicago, IL 60622",,,Condo,
+41.95014,-87.832054,3854 N Pioneer Ave,250000.0,"Dec  2, 2014",Dunning,"Chicago, IL 60634",2.0,1.0,Single-Family Home,840.0
+41.807213,-87.72145,4720 S Springfield Ave,175000.0,"Dec  2, 2014",Archer Heights,"Chicago, IL 60632",,2.5,Multi-Family,1812.0
+41.83818,-87.70816,3027 S Christiana Ave,40000.0,"Dec  2, 2014",Little Village,"Chicago, IL 60623",2.0,1.0,Single-Family Home,714.0
+41.904613,-87.76729,1320 N Parkside Ave,51000.0,"Dec  2, 2014",Austin,"Chicago, IL 60651",2.0,1.0,Single-Family Home,792.0
+41.90677,-87.662155,1354 N Ada St #2,305000.0,"Dec  2, 2014",Goose Island,"Chicago, IL 60642",,,Condo,
+41.91227,-87.635506,1636 N Wells St #806,210000.0,"Dec  2, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.915962,-87.79341,1949 N Rutherford Ave,273000.0,"Dec  2, 2014",Galewood,"Chicago, IL 60707",3.0,1.5,Single-Family Home,1190.0
+41.94567,-87.648834,744 W Cornelia Ave,164500.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.761448,-87.57092,7337 S Paxton Ave,247500.0,"Dec  2, 2014",South Shore,"Chicago, IL 60649",4.0,2.5,Single-Family Home,2128.0
+41.907578,-87.74404,4711 W Le Moyne St,130000.0,"Dec  2, 2014",Austin,"Chicago, IL 60651",3.0,1.5,Single-Family Home,1100.0
+41.89136,-87.67508,1913 W Race Ave,849000.0,"Dec  2, 2014",Ukranian Village,"Chicago, IL 60622",,,Unknown,
+41.962837,-87.695816,2701 W Sunnyside Ave,1020000.0,"Dec  2, 2014",Albany Park,"Chicago, IL 60625",3.0,1.5,Single-Family Home,2181.0
+41.986214,-87.74541,5826 N Kingsdale Ave,325000.0,"Dec  2, 2014",Sauganash,"Chicago, IL 60646",3.0,1.5,Single-Family Home,1344.0
+41.935432,-87.76358,3013 N Linder Ave,195000.0,"Dec  2, 2014",Cragin,"Chicago, IL 60641",2.0,1.0,Single-Family Home,1082.0
+41.97244,-87.802124,5015 N Nordica Ave,300000.0,"Dec  2, 2014",Norwood Park,"Chicago, IL 60656",3.0,1.0,Single-Family Home,1248.0
+41.886974,-87.64666,740 W Fulton St #907,366000.0,"Dec  2, 2014",,"Chicago, IL 60661",,,Condo,
+41.95244,-87.79459,6717 W Irving Park Rd #1C,69000.0,"Dec  2, 2014",Dunning,"Chicago, IL 60634",,,Condo,
+41.878975,-87.684814,2320 W Adams St #28,191500.0,"Dec  2, 2014",,"Chicago, IL 60612",,,Condo,
+41.82227,-87.687584,3918 S Campbell Ave,152000.0,"Dec  2, 2014",Brighton Park,"Chicago, IL 60632",3.0,1.0,Single-Family Home,1122.0
+41.855743,-87.63396,1926 S Tom Pkwy,300000.0,"Dec  2, 2014",Armour Square,"Chicago, IL 60616",3.0,1.5,Townhouse,1452.0
+41.916023,-87.688156,2418 W Cortland St #2,340000.0,"Dec  2, 2014",Bucktown,"Chicago, IL 60647",,,Condo,
+41.73976,-87.7176,3820 W 84th Pl,194000.0,"Dec  2, 2014",Ashburn,"Chicago, IL 60652",2.0,1.0,Single-Family Home,839.0
+41.929924,-87.80488,2731 N Neva Ave,365000.0,"Dec  2, 2014",Montclare,"Chicago, IL 60707",3.0,1.0,Single-Family Home,432.0
+41.816967,-87.70251,3117 W 42nd St,140000.0,"Dec  2, 2014",Brighton Park,"Chicago, IL 60632",,2.0,Multi-Family,1680.0
+41.893642,-87.62753,10 E Ontario St #1612,244000.0,"Dec  2, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.97509,-87.77732,5138 N Mason Ave,325000.0,"Dec  2, 2014",Jefferson Park,"Chicago, IL 60630",2.0,1.0,Single-Family Home,986.0
+41.96428,-87.65177,843 W Windsor Ave #1E,225000.0,"Dec  2, 2014",Uptown,"Chicago, IL 60640",,,Condo,
+41.941525,-87.65017,821 W Aldine Ave #3,395000.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.908794,-87.63237,1460 N Sandburg Ter #1901A,340000.0,"Dec  2, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.893105,-87.61702,401 E Ontario St #2110,365000.0,"Dec  2, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.772053,-87.72468,6637 S Karlov Ave,153000.0,"Dec  2, 2014",West Lawn,"Chicago, IL 60629",,3.0,Multi-Family,1913.0
+41.938007,-87.642426,512 W Barry Ave #312,260000.0,"Dec  2, 2014",,"Chicago, IL 60657",,,Condo,
+41.73213,-87.618835,206 E 89th Pl,90000.0,"Dec  2, 2014",Chatham,"Chicago, IL 60619",3.0,1.5,Single-Family Home,1059.0
+41.774574,-87.78802,6651 W 64th Pl #103,110000.0,"Dec  2, 2014",Clearing,"Chicago, IL 60638",,,Condo,
+41.89177,-87.676155,1940 W Race Ave,862000.0,"Dec  2, 2014",Ukranian Village,"Chicago, IL 60622",2.0,1.0,Single-Family Home,1010.0
+42.003784,-87.67019,6701 N Ashland Ave #305,65000.0,"Dec  2, 2014",Rogers Park,"Chicago, IL 60626",,,Condo,
+41.919624,-87.779564,2160 N Moody Ave,166500.0,"Dec  2, 2014",Belmont Central,"Chicago, IL 60639",,2.0,Multi-Family,2544.0
+41.859917,-87.639694,455 W 16th St,50000.0,"Dec  2, 2014",Pilsen,"Chicago, IL 60616",3.0,1.5,Single-Family Home,1404.0
+41.75597,-87.5618,7642 S Colfax Ave,50000.0,"Dec  2, 2014",South Shore,"Chicago, IL 60649",,6.0,Multi-Family,8280.0
+41.917774,-87.63945,1945 N Hudson Ave,350000.0,"Dec  2, 2014",Lincoln Park,"Chicago, IL 60614",2.0,1.5,Townhouse,915.0
+41.956245,-87.699875,4112 N Mozart St,280000.0,"Dec  2, 2014",Irving Park,"Chicago, IL 60618",,2.5,Multi-Family,1746.0
+41.79434,-87.59286,1333 E Park Pl,27500.0,"Dec  2, 2014",Hyde Park,"Chicago, IL 60637",4.0,1.5,Single-Family Home,1974.0
+41.967133,-87.722404,3743 W Giddings St,180000.0,"Dec  2, 2014",Albany Park,"Chicago, IL 60625",2.0,1.0,Single-Family Home,1020.0
+41.930775,-87.6653,2675 N Greenview Ave,687000.0,"Dec  2, 2014",DePaul,"Chicago, IL 60614",3.0,3.0,Townhouse,2082.0
+41.912674,-87.643875,1648 N Larrabee St,609000.0,"Dec  2, 2014",Lincoln Park,"Chicago, IL 60614",3.0,2.5,Townhouse,1484.0
+41.81293,-87.63808,454 W 45th St,54000.0,"Dec  2, 2014",Canaryville,"Chicago, IL 60609",2.0,1.0,Single-Family Home,920.0
+42.013206,-87.67855,7218 N Wolcott Ave,246000.0,"Dec  2, 2014",Rogers Park,"Chicago, IL 60626",4.0,1.5,Single-Family Home,1594.0
+41.73463,-87.55926,8825 S Saginaw Ave,75000.0,"Dec  2, 2014",South Chicago,"Chicago, IL 60617",,2.0,Multi-Family,2664.0
+41.913296,-87.65103,1719 N Bissell St,612500.0,"Dec  2, 2014",DePaul,"Chicago, IL 60614",3.0,2.5,Townhouse,1616.0
+41.935947,-87.786194,3042 N Narragansett Ave,178000.0,"Dec  2, 2014",Belmont Central,"Chicago, IL 60634",3.0,1.0,Single-Family Home,1348.0
+41.954136,-87.64594,655 W Irving Park Rd #4102,257000.0,"Dec  2, 2014",,"Chicago, IL 60613",,,Condo,
+41.881786,-87.66137,1344 W Madison St #202,320000.0,"Dec  2, 2014",,"Chicago, IL 60607",,,Condo,
+41.891365,-87.70429,532 N Albany Ave,37500.0,"Dec  2, 2014",Humboldt Park,"Chicago, IL 60612",2.0,1.0,Single-Family Home,880.0
+41.881485,-87.62567,60 E Monroe St #1607,724000.0,"Dec  2, 2014",Loop,"Chicago, IL 60603",,,Condo,
+41.90468,-87.662094,1370 W Crystal St #1A,450000.0,"Dec  1, 2014",Goose Island,"Chicago, IL 60642",,,Condo,
+41.99208,-87.67568,1814 W Norwood St,220000.0,"Dec  1, 2014",West Rogers Park,"Chicago, IL 60660",3.0,1.5,Townhouse,1280.0
+41.894913,-87.665855,1503 W Superior St,425000.0,"Dec  1, 2014",Goose Island,"Chicago, IL 60642",,2.0,Multi-Family,1888.0
+41.698505,-87.53491,10819 S Ewing Ave,42500.0,"Dec  1, 2014",East Side,"Chicago, IL 60617",3.0,2.0,Single-Family Home,1060.0
+41.94831,-87.8013,3736 N Sayre Ave,260000.0,"Dec  1, 2014",Dunning,"Chicago, IL 60634",2.0,1.0,Single-Family Home,864.0
+41.954414,-87.68252,2130 W Irving Park Rd #2130-3,544000.0,"Dec  1, 2014",North Center,"Chicago, IL 60618",,,Condo,
+41.909016,-87.62657,1440 N Lake Shore Dr #10A,465000.0,"Dec  1, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.971394,-87.650955,4880 N Marine Dr #212,44000.0,"Dec  1, 2014",Uptown,"Chicago, IL 60640",,,Condo,
+41.802425,-87.66392,5022 S Justine St,22500.0,"Dec  1, 2014",Back of the Yards,"Chicago, IL 60609",,2.0,Multi-Family,1880.0
+41.737537,-87.60398,8630 S Maryland Ave,151000.0,"Dec  1, 2014",Chatham,"Chicago, IL 60619",4.0,3.5,Single-Family Home,1962.0
+41.860977,-87.62615,1528 S Wabash Ave #304,180000.0,"Dec  1, 2014",Near South Side,"Chicago, IL 60605",,,Condo,
+41.88485,-87.62751,8 E Randolph St #3107,275000.0,"Dec  1, 2014",Loop,"Chicago, IL 60601",,,Condo,
+41.90097,-87.73486,4330 W Thomas St,158000.0,"Dec  1, 2014",Humboldt Park,"Chicago, IL 60651",,2.0,Multi-Family,1748.0
+41.77435,-87.59433,6609 S Kimbark Ave #4B,58000.0,"Dec  1, 2014",Woodlawn,"Chicago, IL 60637",,,Condo,
+41.936485,-87.683395,3013 N Clybourn Ave,435000.0,"Dec  1, 2014",Roscoe Village,"Chicago, IL 60618",,2.0,Multi-Family,2520.0
+41.927273,-87.66493,1438 W Altgeld St,989000.0,"Dec  1, 2014",DePaul,"Chicago, IL 60614",4.0,2.5,Single-Family Home,2792.0
+41.9333,-87.63858,330 W Diversey Pkwy #2102,322500.0,"Dec  1, 2014",,"Chicago, IL 60657",,,Condo,
+41.91739,-87.68573,2317 W Armitage Ave #3E,345000.0,"Dec  1, 2014",Bucktown,"Chicago, IL 60647",,,Condo,
+41.77442,-87.61343,6610 S Marquette Dr,106000.0,"Dec  1, 2014",Woodlawn,"Chicago, IL 60637",,3.0,Multi-Family,2242.0
+41.927143,-87.703705,2513 N Milwaukee Ave #2N,315000.0,"Dec  1, 2014",Logan Square,"Chicago, IL 60647",,,Condo,
+41.892715,-87.665794,1500 W Ohio St #1500-3F,480000.0,"Dec  1, 2014",Goose Island,"Chicago, IL 60642",,,Condo,
+41.927418,-87.70917,2539 N Sawyer Ave #2539-2A,276000.0,"Dec  1, 2014",Logan Square,"Chicago, IL 60647",,,Condo,
+42.001465,-87.67937,1929 W Albion Ave #1929-2,44000.0,"Dec  1, 2014",West Rogers Park,"Chicago, IL 60626",,,Condo,
+41.964996,-87.66063,4553 N Magnolia Ave #507,277500.0,"Dec  1, 2014",Uptown,"Chicago, IL 60640",,,Condo,
+41.75224,-87.565865,7845 S Yates Blvd,33000.0,"Dec  1, 2014",South Shore,"Chicago, IL 60649",3.0,1.5,Townhouse,1296.0
+41.939228,-87.63995,3150 N Sheridan Rd #14B,292000.0,"Dec  1, 2014",,"Chicago, IL 60657",,,Condo,
+41.747356,-87.63334,8054 S Harvard Ave,170000.0,"Dec  1, 2014",Chatham,"Chicago, IL 60620",3.0,1.0,Single-Family Home,1176.0
+41.881794,-87.6609,1330 W Madison St,268000.0,"Dec  1, 2014",,"Chicago, IL 60607",,,Condo,
+41.787086,-87.72458,4044 W 58th Pl,85000.0,"Dec  1, 2014",West Elsdon,"Chicago, IL 60629",3.0,1.5,Townhouse,1054.0
+41.902607,-87.67026,1110 N Paulina St,484000.0,"Dec  1, 2014",Wicker Park,"Chicago, IL 60622",,3.0,Multi-Family,3150.0
+41.869328,-87.7225,917 S Springfield Ave,35000.0,"Dec  1, 2014",West Garfield Park,"Chicago, IL 60624",,2.0,Multi-Family,2272.0
+41.69284,-87.65539,1319 W 110th Pl,118000.0,"Dec  1, 2014",Morgan Park,"Chicago, IL 60643",3.0,1.5,Single-Family Home,1950.0
+41.906635,-87.71609,3542 W Hirsch St,130000.0,"Dec  1, 2014",Humboldt Park,"Chicago, IL 60651",2.0,1.0,Single-Family Home,1008.0
+41.966084,-87.732735,4710 N Kewanee Ave,170000.0,"Dec  1, 2014",Albany Park,"Chicago, IL 60630",3.0,2.0,Single-Family Home,1470.0
+41.89152,-87.61278,505 N Lake Shore Dr #B145,58000.0,"Dec  1, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.89703,-87.68049,2122 W Rice St #2122-4,418000.0,"Dec  1, 2014",Ukranian Village,"Chicago, IL 60622",,,Condo,
+41.871593,-87.62642,40 E 9th St #1406C,350000.0,"Dec  1, 2014",Loop,"Chicago, IL 60605",,,Condo,
+41.947205,-87.818726,3720 N Ottawa Ave,270000.0,"Dec  1, 2014",Dunning,"Chicago, IL 60634",2.0,1.5,Single-Family Home,1524.0
+41.94656,-87.65031,3537 N Reta Ave #1,640000.0,"Dec  1, 2014",,"Chicago, IL 60657",,,Condo,
+41.91266,-87.77192,1752 N Monitor Ave,90000.0,"Dec  1, 2014",Austin,"Chicago, IL 60639",,2.0,Multi-Family,2248.0
+41.8181,-87.61939,4207 S Prairie Ave,87000.0,"Dec  1, 2014",Grand Boulevard,"Chicago, IL 60653",,2.0,Multi-Family,2208.0
+41.828323,-87.62014,3629 S Prairie Ave,321000.0,"Dec  1, 2014",Douglas,"Chicago, IL 60653",4.0,2.0,Townhouse,1800.0
+41.964443,-87.83837,4623 N Chester Ave #306W,53000.0,"Dec  1, 2014",O'Hare,"Chicago, IL 60656",,,Condo,
+41.762955,-87.61121,7231 S Rhodes Ave,45000.0,"Dec  1, 2014",Greater Grand Crossing,"Chicago, IL 60619",,3.0,Multi-Family,2662.0
+41.918858,-87.716286,3569 W Dickens Ave,130000.0,"Dec  1, 2014",Logan Square,"Chicago, IL 60647",2.0,1.0,Single-Family Home,880.0
+41.908558,-87.66865,1624 W Julian St,506000.0,"Dec  1, 2014",Wicker Park,"Chicago, IL 60622",,2.0,Multi-Family,1840.0
+41.962177,-87.662735,4414 N Malden St #2S,325000.0,"Dec  1, 2014",Uptown,"Chicago, IL 60640",,,Condo,
+41.849,-87.683464,2342 S Oakley Ave,302000.0,"Dec  1, 2014",Pilsen,"Chicago, IL 60608",,4.0,Multi-Family,4020.0
+41.874027,-87.62944,600 S Dearborn St #1811,307000.0,"Dec  1, 2014",Loop,"Chicago, IL 60605",,,Condo,
+41.98675,-87.80602,5808 N West Circle Ave,465000.0,"Dec  1, 2014",Norwood Park,"Chicago, IL 60631",4.0,2.0,Single-Family Home,1872.0
+41.804283,-87.72872,4858 S Keeler Ave,155000.0,"Dec  1, 2014",Archer Heights,"Chicago, IL 60632",3.0,1.0,Single-Family Home,1398.0
+41.9342,-87.65284,933 W George St,520000.0,"Dec  1, 2014",,"Chicago, IL 60657",,2.0,Multi-Family,3691.0
+41.905094,-87.68796,1307 N Artesian Ave,500000.0,"Dec  1, 2014",West Town,"Chicago, IL 60622",,3.0,Multi-Family,3864.0
+41.935482,-87.71463,2953 N Gresham Ave,555000.0,"Dec  1, 2014",Avondale,"Chicago, IL 60618",,3.0,Multi-Family,2886.0
+41.890232,-87.618164,440 N Mcclurg Ct #304-S,290000.0,"Dec  1, 2014",,"Chicago, IL 60611",,,Condo,
+41.90689,-87.64681,722 W Eastman St,375000.0,"Dec  1, 2014",Near North Side,"Chicago, IL 60610",,,Condo,
+41.793343,-87.75655,5442 S Lorel Ave,183000.0,"Dec  1, 2014",Garfield Ridge,"Chicago, IL 60638",3.0,1.0,Single-Family Home,1412.0
+41.706657,-87.5332,10354 S Avenue H,27000.0,"Dec  1, 2014",East Side,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1222.0
+41.957195,-87.78724,4160 N Natchez Ave #5-311,211000.0,"Dec  1, 2014",Dunning,"Chicago, IL 60634",,,Condo,
+41.92247,-87.68561,2346 W Palmer St #1,246000.0,"Dec  1, 2014",Bucktown,"Chicago, IL 60647",,,Condo,
+41.9315,-87.65224,2721 N Wilton Ave #1N,627500.0,"Dec  1, 2014",DePaul,"Chicago, IL 60614",,,Condo,
+41.95108,-87.70827,3826 N Kedzie Ave,300000.0,"Dec  1, 2014",Irving Park,"Chicago, IL 60618",,2.5,Multi-Family,3846.0
+41.68732,-87.64378,11346 S Green St,160000.0,"Nov 26, 2014",Morgan Park,"Chicago, IL 60643",3.0,1.0,Single-Family Home,1158.0
+41.797283,-87.58257,5435 S East View Park #5435-1,172500.0,"Nov 26, 2014",Hyde Park,"Chicago, IL 60615",,,Condo,
+41.989304,-87.66235,1252 W Rosedale Ave,410000.0,"Nov 26, 2014",Edgewater,"Chicago, IL 60660",3.0,1.5,Single-Family Home,1584.0
+41.905167,-87.67768,2006 W Potomac Ave,770000.0,"Nov 26, 2014",Wicker Park,"Chicago, IL 60622",3.0,2.0,Townhouse,1581.0
+41.93605,-87.712036,3011 N Kimball Ave,200000.0,"Nov 26, 2014",Avondale,"Chicago, IL 60618",,3.0,Multi-Family,1408.0
+41.737476,-87.608246,8631 S Champlain Ave,80000.0,"Nov 26, 2014",Chatham,"Chicago, IL 60619",2.0,1.0,Townhouse,1000.0
+41.976818,-87.809875,7314 W Summerdale Ave,195000.0,"Nov 26, 2014",Norwood Park,"Chicago, IL 60656",2.0,1.0,Single-Family Home,1083.0
+41.972412,-87.78707,5010 N Mulligan Ave,290000.0,"Nov 26, 2014",Jefferson Park,"Chicago, IL 60630",4.0,1.0,Single-Family Home,1427.0
+41.949875,-87.82961,3842 N Panama Ave,280000.0,"Nov 26, 2014",Dunning,"Chicago, IL 60634",3.0,1.5,Single-Family Home,2074.0
+41.738766,-87.65306,8527 S Racine Ave,24000.0,"Nov 26, 2014",Auburn Gresham,"Chicago, IL 60620",2.0,1.5,Townhouse,994.0
+41.893578,-87.61511,600 N Lake Shore Dr #2011,1210000.0,"Nov 26, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.864105,-87.723526,1307 S Harding Ave,75000.0,"Nov 26, 2014",North Lawndale,"Chicago, IL 60623",3.0,2.0,Single-Family Home,1440.0
+41.977028,-87.6902,2420 W Farragut Ave #3A2420,125000.0,"Nov 26, 2014",Lincoln Square,"Chicago, IL 60625",,,Condo,
+41.747135,-87.68192,2337 W 80th Pl,140000.0,"Nov 26, 2014",Ashburn,"Chicago, IL 60620",3.0,1.0,Single-Family Home,1162.0
+41.91687,-87.67309,1928 N Wood St,2100000.0,"Nov 26, 2014",Bucktown,"Chicago, IL 60622",4.0,3.5,Single-Family Home,3724.0
+41.91643,-87.67903,2034 W Cortland St,1085000.0,"Nov 26, 2014",Bucktown,"Chicago, IL 60647",3.0,3.5,Single-Family Home,2310.0
+41.888348,-87.62881,300 N State St #5322,398000.0,"Nov 26, 2014",Near North Side,"Chicago, IL 60654",,,Condo,
+41.97404,-87.68823,5060 N Claremont Ave #5058-2E,105000.0,"Nov 26, 2014",Lincoln Square,"Chicago, IL 60625",,,Condo,
+42.009556,-87.704994,6833 N Kedzie Ave #909,61000.0,"Nov 26, 2014",West Rogers Park,"Chicago, IL 60645",,,Condo,
+41.918964,-87.708275,3229 W Dickens Ave,510000.0,"Nov 26, 2014",Logan Square,"Chicago, IL 60647",,2.5,Multi-Family,2634.0
+41.723118,-87.63926,9405 S Lowe Ave,191000.0,"Nov 26, 2014",Washington Heights / Brainerd,"Chicago, IL 60620",4.0,1.5,Single-Family Home,2016.0
+41.69386,-87.52788,11055 S Avenue D,55000.0,"Nov 26, 2014",East Side,"Chicago, IL 60617",3.0,1.0,Single-Family Home,1089.0
+41.805836,-87.65794,4834 S Throop St,25000.0,"Nov 26, 2014",Back of the Yards,"Chicago, IL 60609",2.0,1.0,Single-Family Home,969.0
+41.965073,-87.693436,2558 W Wilson Ave #2558-2,223000.0,"Nov 26, 2014",Ravenswood,"Chicago, IL 60625",,,Condo,
+41.79314,-87.796844,5428 S Sayre Ave,155000.0,"Nov 26, 2014",Garfield Ridge,"Chicago, IL 60638",2.0,1.0,Single-Family Home,1060.0
+41.78854,-87.71412,3617 W 57th Pl,36500.0,"Nov 26, 2014",West Elsdon,"Chicago, IL 60629",,,Unknown,
+41.737846,-87.63534,8601 S Eggleston Ave,140000.0,"Nov 26, 2014",Auburn Gresham,"Chicago, IL 60620",3.0,2.5,Single-Family Home,2440.0
+41.923893,-87.70432,2321 N Albany Ave,380000.0,"Nov 26, 2014",Logan Square,"Chicago, IL 60647",,2.0,Multi-Family,2315.0
+41.938126,-87.78157,6211 W Belmont Ave,200000.0,"Nov 26, 2014",Belmont Central,"Chicago, IL 60634",,3.5,Multi-Family,3620.0
+41.924625,-87.63697,2326 N Lincoln Park W #2326-D1,90000.0,"Nov 26, 2014",Lincoln Park,"Chicago, IL 60614",,,Condo,
+41.893803,-87.628365,630 N State St #1701,172000.0,"Nov 26, 2014",Near North Side,"Chicago, IL 60654",,,Condo,
+41.79745,-87.7364,5239 S Kolmar Ave,129500.0,"Nov 26, 2014",Archer Heights,"Chicago, IL 60632",2.0,1.0,Single-Family Home,828.0
+41.895233,-87.671936,737 N Wood St,397000.0,"Nov 26, 2014",Goose Island,"Chicago, IL 60622",2.0,2.0,Townhouse,1523.0
+41.973843,-87.76505,5124 N Lovejoy Ave,248000.0,"Nov 26, 2014",Jefferson Park,"Chicago, IL 60630",,3.0,Multi-Family,3288.0
+41.96489,-87.71604,4600 N Saint Louis Ave #3S,150000.0,"Nov 26, 2014",Albany Park,"Chicago, IL 60625",,,Condo,
+41.984238,-87.66395,5620 N Wayne Ave #1,307500.0,"Nov 26, 2014",Edgewater,"Chicago, IL 60660",,,Condo,
+41.880573,-87.656555,1148 W Monroe St #4SE,585000.0,"Nov 26, 2014",,"Chicago, IL 60607",,,Condo,
+41.775433,-87.6006,6547 S Ellis Ave #6547-1,170000.0,"Nov 26, 2014",Woodlawn,"Chicago, IL 60637",,,Condo,
+41.88385,-87.68234,2231 W Maypole Ave #103,75000.0,"Nov 26, 2014",,"Chicago, IL 60612",,,Condo,
+41.925014,-87.70913,3240 W Fullerton Ave,200000.0,"Nov 26, 2014",Logan Square,"Chicago, IL 60647",,,Condo,
+41.903458,-87.627525,30 E Elm St #20G,235000.0,"Nov 26, 2014",Near North Side,"Chicago, IL 60611",,,Condo,
+41.78526,-87.69687,5937 S Richmond St,78000.0,"Nov 26, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,1.0,Single-Family Home,1239.0
+42.012917,-87.677216,1838 W Touhy Ave,280000.0,"Nov 26, 2014",Rogers Park,"Chicago, IL 60626",4.0,1.5,Single-Family Home,1778.0
+41.97796,-87.76636,5318 N Linder Ave,150000.0,"Nov 26, 2014",Jefferson Park,"Chicago, IL 60630",4.0,2.0,Single-Family Home,1573.0
+41.870872,-87.62807,899 S Plymouth Ct #105,188000.0,"Nov 26, 2014",Loop,"Chicago, IL 60605",,,Condo,
+41.743877,-87.726585,4202 W 82nd St,245000.0,"Nov 26, 2014",Scottsdale,"Chicago, IL 60652",3.0,2.0,Single-Family Home,1025.0
+41.959816,-87.650475,4240 N Clarendon Ave #203S,60000.0,"Nov 26, 2014",Uptown,"Chicago, IL 60613",,,Condo,
+41.957268,-87.78859,6430 W Berteau Ave #2-208,143000.0,"Nov 26, 2014",Dunning,"Chicago, IL 60634",,,Condo,
+41.96771,-87.73136,4745 N Kedvale Ave,310000.0,"Nov 26, 2014",Albany Park,"Chicago, IL 60630",,2.0,Multi-Family,2242.0
+41.92023,-87.67735,2119 N Damen Ave #3,380000.0,"Nov 26, 2014",Bucktown,"Chicago, IL 60647",,,Condo,
+41.77715,-87.71842,3812 W 64th St,185000.0,"Nov 26, 2014",West Lawn,"Chicago, IL 60629",4.0,2.0,Single-Family Home,2034.0
+41.910942,-87.69541,1619 N Fairfield Ave #3,300000.0,"Nov 26, 2014",West Town,"Chicago, IL 60647",,,Condo,
+41.778297,-87.762344,5612 W 63rd St,141000.0,"Nov 26, 2014",Clearing,"Chicago, IL 60638",,2.5,Multi-Family,4992.0
+41.84887,-87.71648,2330 S Millard Ave,186000.0,"Nov 26, 2014",Little Village,"Chicago, IL 60623",4.0,2.0,Single-Family Home,2580.0
+41.785103,-87.69634,5942 S Francisco Ave,72000.0,"Nov 26, 2014",Chicago Lawn,"Chicago, IL 60629",3.0,1.0,Single-Family Home,897.0
+41.960136,-87.64769,4250 N Marine Dr #1131,116500.0,"Nov 26, 2014",Uptown,"Chicago, IL 60613",,,Condo,
+41.78845,-87.623436,5823 S Wabash Ave,80000.0,"Nov 26, 2014",Washington Park,"Chicago, IL 60637",,3.0,Multi-Family,4104.0
+41.729923,-87.6516,9017 S May St,165000.0,"Nov 26, 2014",Washington Heights / Brainerd,"Chicago, IL 60620",3.0,2.5,Single-Family Home,1512.0
+41.98255,-87.65758,5525 N Winthrop Ave #414,121000.0,"Nov 26, 2014",Edgewater,"Chicago, IL 60640",,,Condo,
+41.975613,-87.69005,2419 W Foster Ave #1W,432500.0,"Nov 26, 2014",Lincoln Square,"Chicago, IL 60625",,,Con

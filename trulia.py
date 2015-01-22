@@ -8,12 +8,31 @@
 from bs4 import BeautifulSoup
 from urllib2 import urlopen
 import csv
+import time
 
 baseURL = "http://www.trulia.com/sold/Chicago,IL"
 
 def make_soup(url):
-	html = urlopen(url).read()
-	return BeautifulSoup(html, "lxml")
+	try:
+		htmlOpen = urlopen(url)
+	except:
+		print "Cant open"
+	try:
+		html = htmlOpen.read()
+	except:
+		print "cant read"
+	try:
+		soup = BeautifulSoup(html, "lxml")
+		print "lml worked"
+	except:
+		try:
+			soup = BeautifulSoup(html, "html.parser")
+			print "html parser worked"
+		except:
+			print "The problem is the parser"
+			return None
+	return soup
+
 
 def get_house_details(house):
 	latitude = float(house.find("meta", attrs = {"itemprop": "latitude"})["content"])
@@ -59,29 +78,35 @@ def first_page(baseURL):
 def get_houses(pageURL, information):
 	try:
 		soup = make_soup(pageURL)
+	except:
+		print "soup wrong"
+	try:
 		houses = soup.findAll("li", "hover propertyCard property-data-elem")
+	except:
+		print "cant find houses"
+	try:
 		print len(houses)
 		for house in houses:
 			houseInfo = get_house_details(house)
 			information.append(houseInfo)
 	except:
-		print "something wrong"
-		pass
-
+		print "get_house_details wrong"
 
 information = first_page(baseURL)
 
-for i in range(2, 1145):
+for i in range(2, 500):
 	nextURL = "http://www.trulia.com/sold/Chicago,IL/" + str(i) + "_p"
+	time.sleep(30)
 	get_houses(nextURL, information)
 	print "page" + str(i)
 	print len(information)
 
+'''
 csvFile = open("Data/trulia-info.csv", "w")
 fieldNames = ("Latitude", "Longitude", "Street Address", "Price", "Date Sold",
 				"Neighborhood", "More Address", "Beds", "Baths", "House Type",
 				"Size in Square Feet")
-output = csv.writer(f, delimiter = ",")
+output = csv.writer(csvFile, delimiter = ",")
 output.writerow(fieldNames)
 
 for house in information:
@@ -89,19 +114,5 @@ for house in information:
 
 print "Done Writing File"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+'''
 
